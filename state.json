@@ -1,17 +1,15 @@
 {
   "phase": 1,
-  "day": 1,
+  "day": 2,
   "total_days": 45,
-
   "taste": {
     "harshness": 0.6,
     "depth": 0.7,
     "provocation": 0.55,
     "length": 0.45
   },
-
   "last_post": {
-    "message_id": null,
+    "message_id": 19,
     "feedback_applied": false
   }
 }
